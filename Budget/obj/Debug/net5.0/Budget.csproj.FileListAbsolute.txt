@@ -1,0 +1,16 @@
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\Budget.exe
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\Budget.deps.json
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\Budget.runtimeconfig.json
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\Budget.runtimeconfig.dev.json
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\Budget.dll
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\ref\Budget.dll
+C:\Users\Branwie\source\repos\Budget\Budget\bin\Debug\net5.0\Budget.pdb
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.csprojAssemblyReference.cache
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.AssemblyInfoInputs.cache
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.AssemblyInfo.cs
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.csproj.CoreCompileInputs.cache
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.dll
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\ref\Budget.dll
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.pdb
+C:\Users\Branwie\source\repos\Budget\Budget\obj\Debug\net5.0\Budget.genruntimeconfig.cache
